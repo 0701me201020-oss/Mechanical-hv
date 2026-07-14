@@ -1,2 +1,0 @@
-# Mechanical-hv
-Mechanical hv
